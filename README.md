@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Oluwashina, and I love to code and build aweso
 
 ## About Me
 
-- 💻 Software Engineer with expertise in [Reactjs] [vueJs]
+- 💻 Software Engineer with expertise in [Reactjs] [VueJs]
 - 🎓 Graduated from Obafemi Awolowo University
 - 🌱 Currently learning [React-Native] [Typescript] [Jest]
 
@@ -37,7 +37,7 @@ I enjoy working on a variety of projects, both personal and open-source. Here ar
 
 - [Dart Africa](https://app.dartafrica.io): Sell your crypto: Get Naira or Cedis in 4mins
 - [Cardvest](https://app.cardvest.ng): Most profitable and customer-focused gift card trading app in Nigeria and Ghana.
-- [Ikinghub](htpps://ikinghub.com): Most profitable and customer-focused gift card trading app in Nigeria.
+- [Ikinghub](https://ikinghub.com): Most profitable and customer-focused gift card trading app in Nigeria.
 
 Feel free to explore my repositories to see more of my projects and contributions!
 
