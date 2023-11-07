@@ -46,7 +46,7 @@ Feel free to explore my repositories to see more of my projects and contribution
 
 I'm always excited to connect with fellow developers and collaborate on interesting projects. You can reach me through the following channels:
 
-- 📧 Email: [contactme@oluwashina.com]
+- 📧 Email: [shinzbaba@gmail.com]
 - 💬 LinkedIn: [https://www.linkedin.com/in/oluwashina-kure-ojo-7a1b53159/]
 - 🌐 Personal website: [https://oluwashina.com]
 
