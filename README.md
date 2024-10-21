@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Oluwashina, and I love to code and build awesome projects. I'm passionate about technology and enjoy exploring new tools and frameworks. 
+Welcome to my GitHub profile! I'm Oluwashina, and I love to code and build a`wesome projects. I'm passionate about technology and enjoy exploring new tools and frameworks. 
 
 ## About Me
 
@@ -46,7 +46,7 @@ Feel free to explore my repositories to see more of my projects and contribution
 
 I'm always excited to connect with fellow developers and collaborate on interesting projects. You can reach me through the following channels:
 
-- 📧 Email: [shinzbaba@gmail.com]
+- 📧 Email: [thedevoluwashina@gmail.com]
 - 💬 LinkedIn: [https://www.linkedin.com/in/oluwashina-kure-ojo-7a1b53159/]
 - 🌐 Personal website: [https://oluwashina.com]
 
